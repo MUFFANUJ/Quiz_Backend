@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prisma:generate": "prisma generate --schema=./models/schema.prisma",
+    "prisma:generate": "prisma generate --schema=./prisma/schema.prisma",
     "build": "npm run prisma:generate"
   },
   "keywords": [],
