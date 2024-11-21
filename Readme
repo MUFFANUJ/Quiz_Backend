@@ -5,7 +5,6 @@ This repository contains the backend code for a **Quiz Management System**. The 
 ---
 
 ## Features
-
 ### Authentication:
 - **User login** and **signup** functionality.
 - **Password validation** and **JWT token generation** for authentication.
