@@ -5,7 +5,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "prisma:generate": "prisma generate --schema=./prisma/schema.prisma",
-    "build": "npm run prisma:generate"
+    "build": "npm run prisma:generate",
+    "start": "node src/index.js"
   },
   "keywords": [],
   "author": "",
